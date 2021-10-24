@@ -1,6 +1,9 @@
 # 🌱 Quartz
 ## v2.0
 
+This **PROGRAMM** is really cool I love it
+* because it is so fast and reliable !!!!
+
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
 ## Why Quartz?
