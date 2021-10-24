@@ -7,4 +7,4 @@ title: "Pokemon"
 * and  [editing](notes/editing.md)
 * setup [setup](notes/setup.md)
 
-![github-pages](notes/images/github-pages.png)
+![github-pages](/notes/images/github-pages.png)
